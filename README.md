@@ -21,6 +21,10 @@
 #### Ejecutar analisis de php insights dentro del contenedor:
 - `php artisan insights --min-quality={minQuality} --no-interaction`
 
+#### Ejecutar analisis de linting (pint):
+- `./vendor/bin/pint --test`
+
+
 
 
 
