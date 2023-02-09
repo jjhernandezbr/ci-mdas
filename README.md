@@ -1,5 +1,8 @@
 ## MDAS - CI
 
+#### Ejecutar build del contenedor:
+- `./vendor/bin/sail/build`
+
 #### Inicializar el contenedor: 
 - `./vendor/bin/sail/up -d`
 
