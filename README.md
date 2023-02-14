@@ -1,5 +1,8 @@
 ## MDAS - CI
 
+#### Instalar dependencias con composer:
+- `composer install`
+
 #### Ejecutar build del contenedor:
 - `./vendor/bin/sail/build`
 
